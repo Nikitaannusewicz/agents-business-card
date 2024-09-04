@@ -1,0 +1,22 @@
+[
+  {
+    "NAME": "John Doe",
+    "TITLE": "Senior Software Engineer",
+    "EMAIL": "john.doe@example.com",
+    "PHONE": "+1 (555) 123-4567",
+    "COMPANY": "Tech Innovations Inc.",
+    "LINKEDIN": "https://www.linkedin.com/in/johndoe",
+    "BIO": "Passionate about creating elegant solutions to complex problems.",
+    "IMAGE": "john-doe.jpg"
+  },
+  {
+    "NAME": "Jane Smith",
+    "TITLE": "Product Manager",
+    "EMAIL": "jane.smith@example.com",
+    "PHONE": "+1 (555) 987-6543",
+    "COMPANY": "Tech Innovations Inc.",
+    "LINKEDIN": "https://www.linkedin.com/in/janesmith",
+    "BIO": "Driven by user-centric design and data-driven decision making.",
+    "IMAGE": "jane-smith.jpg"
+  }
+]
